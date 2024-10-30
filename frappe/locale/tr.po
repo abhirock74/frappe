@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-10-08 17:02+0000\n"
-"PO-Revision-Date: 2024-10-24 07:20\n"
+"PO-Revision-Date: 2024-10-30 09:43\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Turkish\n"
 "MIME-Version: 1.0\n"
@@ -11489,7 +11489,7 @@ msgstr ""
 #. Label of a Tab Break field in DocType 'Website Settings'
 #: frappe/website/doctype/website_settings/website_settings.json
 msgid "Header, Robots"
-msgstr ""
+msgstr "Üst Bilgi Alanı"
 
 #: frappe/printing/doctype/letter_head/letter_head.js:30
 msgid "Header/Footer scripts can be used to add dynamic behaviours."
@@ -12459,7 +12459,7 @@ msgstr "Önizleme"
 
 #: frappe/core/doctype/data_import/data_import.js:42
 msgid "In Progress"
-msgstr "Devam ediyor"
+msgstr "Devam Ediyor"
 
 #: frappe/database/database.py:243
 msgid "In Read Only Mode"
@@ -20133,7 +20133,7 @@ msgstr "Kırmızı"
 #. Label of a Select field in DocType 'Website Route Redirect'
 #: frappe/website/doctype/website_route_redirect/website_route_redirect.json
 msgid "Redirect HTTP Status"
-msgstr ""
+msgstr "HTTP Yönlendirme Durumu"
 
 #. Label of a Data field in DocType 'Connected App'
 #: frappe/integrations/doctype/connected_app/connected_app.json
@@ -20172,7 +20172,7 @@ msgstr "Başarılı onaylamadan sonra bu bağlantıya yönlendirin."
 #. Label of a Tab Break field in DocType 'Website Settings'
 #: frappe/website/doctype/website_settings/website_settings.json
 msgid "Redirects"
-msgstr ""
+msgstr "Yönlendirmeler"
 
 #: frappe/sessions.py:147
 msgid "Redis cache server not running. Please contact Administrator / Tech support"
@@ -21467,7 +21467,7 @@ msgstr "Dolaşım Geçmişi"
 #. Label of a Table field in DocType 'Website Settings'
 #: frappe/website/doctype/website_settings/website_settings.json
 msgid "Route Redirects"
-msgstr ""
+msgstr "Rota Yönlendirmeleri"
 
 #. Description of the 'Home Page' (Data) field in DocType 'Role'
 #: frappe/core/doctype/role/role.json
@@ -28975,7 +28975,7 @@ msgstr ""
 
 #: frappe/model/delete_doc.py:136
 msgid "You can disable this {0} instead of deleting it."
-msgstr ""
+msgstr "Bu {0} öğesini silmek yerine devre dışı bırakabilirsiniz."
 
 #: frappe/core/doctype/file/file.py:688
 msgid "You can increase the limit from System Settings."
